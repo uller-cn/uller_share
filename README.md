@@ -48,8 +48,6 @@ wails build -platform windows/amd64 -upx 9
 
 ---
 
----
-
 # Roadmap
 The project roadmap may be found [here](https://github.com/uller-cn/uller_share/discussions/1).
 
