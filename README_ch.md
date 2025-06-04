@@ -39,11 +39,11 @@
 
 32位
 
-wails build -platform windows/386 -upx 9
+wails build -platform windows/386 -webview2 download -upx 9
 
 64位
 
-wails build -platform windows/amd64 -upx 9
+wails build -platform windows/amd64 -webview2 download -upx 9
 
 ---
 
