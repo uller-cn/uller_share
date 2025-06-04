@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/uller-cn/share/blob/main/resource/icon.png" alt="logo" width="100" height="100" />
+  <img src="https://github.com/uller-cn/uller_share/blob/main/resource/icon.png" alt="logo" width="100" height="100" />
 </div>
 
 <h1 align="center">Share</h1>
 
-<h4 align="center"><strong>English</strong> | <a href="https://github.com/uller-cn/share/blob/main/README_ch.md">简体中文</a></h4>
+<h4 align="center"><strong>English</strong> | <a href="https://github.com/uller-cn/uller_share/blob/main/README_ch.md">简体中文</a></h4>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 ![go][go-badge]
 ![js][js-badge]
 ![license][license-badge]
-![download](https://img.shields.io/github/downloads/uller-cn/share/total)
+![download](https://img.shields.io/github/downloads/uller-cn/uller_share/total)
 
 </div>
 
@@ -51,14 +51,14 @@ wails build -platform windows/amd64 -upx 9
 ---
 
 # Roadmap
-The project roadmap may be found [here](https://github.com/uller-cn/share/discussions/1).
+The project roadmap may be found [here](https://github.com/uller-cn/uller_share/discussions/1).
 
 ---
 
 # Preview
 
-![preview](https://github.com/uller-cn/share/blob/main/resource/example_1.png)
-![preview](https://github.com/uller-cn/share/blob/main/resource/example_2.png)
+![preview](https://github.com/uller-cn/uller_share/blob/main/resource/example_1.png)
+![preview](https://github.com/uller-cn/uller_share/blob/main/resource/example_2.png)
 
 ---
 
@@ -80,6 +80,6 @@ mail:stephend@163.com
 
 [MIT](/LICENSE)
 
-[go-badge]: https://img.shields.io/github/go-mod/go-version/uller-cn/share
+[go-badge]: https://img.shields.io/github/go-mod/go-version/uller-cn/uller_share
 [js-badge]: https://badgen.net/badge/-/JavaScript/blue?icon=JavaScript&label
 [license-badge]: https://img.shields.io/github/license/bent2685/transok-wails
