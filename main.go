@@ -53,7 +53,7 @@ func main() {
 		}
 	}()
 
-	sqlite.IsRun = true
+	sqlite.IsRun = false
 	sqlite.Db.RunPath = runPath
 	go sqlite.Open()
 

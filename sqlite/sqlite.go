@@ -173,7 +173,6 @@ func UpdateDownloadHistoryNoFinish(historyId string) (err error) {
 }
 
 func Open() {
-	IsRun = true
 	if Db.RunPath == "" {
 		IsRun = false
 		return
