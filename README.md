@@ -74,10 +74,6 @@ mail:stephend@163.com
 
 ---
 
-# License
-
-[MIT](/LICENSE)
-
 [go-badge]: https://img.shields.io/github/go-mod/go-version/uller-cn/uller_share
 [js-badge]: https://badgen.net/badge/-/JavaScript/blue?icon=JavaScript&label
 [license-badge]: https://img.shields.io/github/license/bent2685/transok-wails
